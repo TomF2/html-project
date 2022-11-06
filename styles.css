@@ -1,0 +1,75 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 1000px;
+}
+
+h1{
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+#menu{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: rgb(253,222,17);
+}
+
+#menu a{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgb(0,10,63);
+    font-size: 18px;
+}
+
+#mainwrapper{
+    margin: auto;
+    width: 80%;
+}
+
+#header{
+    padding: 15px;
+    background: url(images/rtclogo.png);
+    background-repeat: no-repeat;
+    background-color: rgb(0,10,63);
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.MainHeading{
+    text-align: center;
+}
+
+#intosection{
+    margin-top: 20px;
+    background-color: rgba(204, 216, 224, 0.445);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 2px solid rgba(78, 78, 78, 0.411);
+}
+
+#mainheaderphoto{
+    min-height: 262px;
+    background-image: url(images/bluetenniscourt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.boxstyle1{
+    margin-top: 20px;
+    background-color: rgba(204, 216, 224, 0.445);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 2px solid rgba(78, 78, 78, 0.411);
+}
+
+#clubhouse img {
+    margin-top: 25px;
+    width: 90%;
+}
